@@ -33,7 +33,6 @@ This is a segment-display variant of the original [NV-SmartEnv-Controller](https
 - 🔧 Customizable temperature/humidity thresholds via onboard buttons
 - 🖥️ **No PC required** after uploading — fully programmable via buttons
 - 🔌 Can switch external devices ON/OFF at certain conditions
-- 🚨 Built-in safety features
 - 🔁 Ideal for use in **automation, hobbyist, or remote setups**
 - 🔄 Easily adaptable for other projects (RC cooling, fans, etc.)
 
@@ -42,7 +41,7 @@ This is a segment-display variant of the original [NV-SmartEnv-Controller](https
 ## 🧩 Compatibility
 
 This controller is compatible with **any MAX7219-based 7-segment module**, including:
-- NV-MAX7219-LargeSeg
+- [NV-MAX7219-LargeSeg](https://github.com/NVCreations33/NV-MAX7219-LargeSeg)
 - Commercial 0.36" and 0.56" display modules
 - Custom MAX7219 breakout boards
 
