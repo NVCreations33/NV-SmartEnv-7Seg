@@ -2,15 +2,15 @@
 
 An advanced, compact, and PC-independent Arduino-based environmental monitoring module designed to display temperature and humidity using a MAX7219-based 7-segment display.
 
-This is a segment-display variant of the original [NV-SmartEnv-Controller](https://github.com/YOUR_USERNAME/NV-SmartEnv-Controller), built with all of its core capabilities and safety measures — but optimized for numeric output.
+This is a segment-display variant of the original [NV-SmartEnv-Controller](https://github.com/NVCreations33/NV-SmartEnv-Controller), built with all of its core capabilities and safety measures — but optimized for numeric output.
 
 ---
 
 ## 🖼️ Previews
 
-| PCB Layout | Top View | Schematic |
-|------------|----------|-----------|
-| ![PCB Layout](./PCB_Layout.png) | ![Top View](./Top_View.svg) | ![Schematic](./Schematic_Diagram.png) |
+| Top View | PCB Layout | Schematic |
+|----------|------------|-----------|
+| ![Top View](./Top_View.svg) | ![PCB Layout](./PCB_Layout.png) | ![Schematic](./Schematic_Diagram.png) |
 
 ---
 
