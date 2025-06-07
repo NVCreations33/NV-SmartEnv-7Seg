@@ -70,3 +70,4 @@ This version is optimized for use cases where space, simplicity, or numeric data
 
 For freelance customization, feel free to [contact me through GitHub](https://github.com/NVCreations33).
 
+#arduino #pcb #micro-controller
