@@ -12,7 +12,7 @@ Their fast, affordable prototyping service delivered excellent board quality, wh
 
 Special thanks to PCBWay for supporting this open hardware project.
 
-![NV-SmartEnv-7Seg PCB](./PCBway)
+![NV-SmartEnv-7Seg PCB](https://drive.google.com/file/d/1y0IpK7jDnyHMhxd_ROdvuIeUBAeyRGBb/view?usp=drivesdk)
 
 ---
 ## 🖼️ Previews
