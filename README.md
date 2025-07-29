@@ -5,7 +5,16 @@ An advanced, compact, and PC-independent Arduino-based environmental monitoring 
 This is a segment-display variant of the original [NV-SmartEnv-Controller](https://github.com/NVCreations33/NV-SmartEnv-Controller), built with all of its core capabilities and safety measures — but optimized for numeric output.
 
 ---
+## 🧪 Prototyping & Testing
 
+This project was prototyped using high-quality custom PCBs generously sponsored by [PCBWay](https://www.pcbway.com).  
+Their fast, affordable prototyping service delivered excellent board quality, which allowed for smooth assembly and functional testing.
+
+Special thanks to PCBWay for supporting this open hardware project.
+
+![NV-SmartEnv-7Seg PCB](./PCBway)
+
+---
 ## 🖼️ Previews
 
 | Top View | PCB Layout | Schematic |
